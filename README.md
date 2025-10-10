@@ -87,6 +87,3 @@ This project covers a two-week study on collecting, processing, and visualizing 
 - Week-1: Elastic SIEM Installation & Log Sources  
 - Week-2: Log Parsing & Dashboard Development  
 
----
-👤 **Prepared by:** Pelin Gülmez  
-📅 **Date:** June 2025
